@@ -1,6 +1,11 @@
 # Open-Source Smart Thermostat
 This project is part of the study course "Media and Human-Centered Computing" at the Vienna University of Technology. The goal of this project is to create an open-source smart thermostat. For us open-source means accessible because everyone can adapt this groundwork of a working thermostat to their specific needs.
 
+*Contributors:*
+- Lorenz Kraus [lolokraus](https://github.com/lolokraus)
+- Jakob Wagenitz [jakowag](https://github.com/jakowag)
+- Tobias Christoph [Tobias Christoph TU Wien](https://informatics.tuwien.ac.at/people/tobias-christoph)
+
 ## Is This Usable for Me?
 In most heating systems, a thermostat controls the heater by closing (shorting) a contact, which completes an electrical circuit and activates the heating unit. This thermostat works in the same way, using a relay to close the electircal circuit, if your current thermostat operates like this you will be able to use this thermostat too.
 
