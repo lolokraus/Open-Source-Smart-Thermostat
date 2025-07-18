@@ -1,5 +1,5 @@
 # Open-Source Smart Thermostat
-This project is part of the study course "Media and Human-Centered Computing" at the Vienna University of Technology. The goal of this project is to create an open-source smart thermostat. For us open-source means accessible because everyone can adapt this groundwork of a working thermostat to their specific needs.
+This project is part of the study course "Media and Human-Centered Computing" at the Vienna University of Technology. The goal of this project is to create an open-source smart thermostat. For us open-source means accessible because everyone can adapt this groundwork of a working thermostat to their specific needs. Find it on [Instructables](https://www.instructables.com/Build-Your-Own-Smart-Thermostat-Open-Source/).
 
 *Contributors:*
 - Lorenz Kraus [lolokraus](https://github.com/lolokraus)
